@@ -12,6 +12,10 @@ authors:
 - family-names: "Ferrira"
   given-names: "Tobias"
 repository-code: https://github.com/drapm/intermediate-git-test-repo.git
-abstract: "A Python script to graph the locations of wave buoys around the UK."
+abstract:"A Python script to graph the locations of wave buoys around the UK."
 keywords:
  - wave buoys
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.306774
+date-released: 2025-08-06
