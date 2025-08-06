@@ -1,21 +1,17 @@
 cff-version: 1.2.0
 title: Plot Buoys
-message: >-
- If you use this software, please cite it using the
- metadata from this file.
+message: "If you use this software, please cite it as below."
 type: software
 authors:
- - given-names: Matthews
-name-particle: Andrew
- - given-names: Sauze
-name-particle: Colin
- - given-names: Turner
-family-names: Esther
- - given-names: Ferrira
-family-names: Tobias
-repository-code: >-
- https://github.com/drapm/intermediate-git-test-repo.git
-abstract: >-
- A Python script to graph the locations of wave buoys around the UK.
+- family-names: "Matthews"
+  given-names: "Andrew"
+- family-names: "Sauze"
+  given-names: "Colin"
+- family-names: "Turner"
+  given-names: "Esther"
+- family-names: "Ferrira"
+  given-names: "Tobias"
+repository-code: https://github.com/drapm/intermediate-git-test-repo.git
+abstract:"A Python script to graph the locations of wave buoys around the UK."
 keywords:
  - wave buoys
